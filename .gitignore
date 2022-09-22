@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+20220918_Example.txt
+__pycache__/
+settings.py
+test.xlsx
